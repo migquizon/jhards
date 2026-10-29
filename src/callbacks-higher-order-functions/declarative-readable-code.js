@@ -1,0 +1,1 @@
+console.log("Declarative and Readable Code");
