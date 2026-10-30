@@ -7,4 +7,7 @@
 // import "/src/callbacks-higher-order-functions/arrow-functions";
 // import "/src/callbacks-higher-order-functions/non-mutating-array-methods";
 // import "/src/callbacks-higher-order-functions/pair-programming";
-import "/src/closure/closure";
+// import "/src/closure/closure";
+// import "/src/closure/return-a-function";
+// import "/src/closure/calling-function-within-function";
+import "/src/closure/function-scope-backpack";
