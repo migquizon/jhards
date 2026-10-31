@@ -10,4 +10,8 @@
 // import "/src/closure/closure";
 // import "/src/closure/return-a-function";
 // import "/src/closure/calling-function-within-function";
-import "/src/closure/function-scope-backpack";
+// import "/src/closure/function-scope-backpack";
+// import "/src/closure/closure-scope";
+// import "/src/closure/multiple-closures";
+// import "/src/closure/closure-use-cases";
+import "/src/type-coercion-metaprogramming/math-operators-user-submitted-data";
