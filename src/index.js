@@ -14,4 +14,12 @@
 // import "/src/closure/closure-scope";
 // import "/src/closure/multiple-closures";
 // import "/src/closure/closure-use-cases";
-import "/src/type-coercion-metaprogramming/math-operators-user-submitted-data";
+// import "/src/type-coercion-metaprogramming/math-operators-user-submitted-data";
+// import "/src/type-coercion-metaprogramming/math-operator-type-coercion";
+// import "/src/type-coercion-metaprogramming/boolean-coercion";
+// import "/src/type-coercion-metaprogramming/coercion-rules-operators";
+// import "/src/type-coercion-metaprogramming/stack-memory-heap-memory";
+// import "/src/type-coercion-metaprogramming/date-objects";
+// import "/src/type-coercion-metaprogramming/primitive-coercion";
+// import "/src/type-coercion-metaprogramming/implement-primitive-coercion";
+import "/src/type-coercion-metaprogramming/symbols-metaprogramming";
