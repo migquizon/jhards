@@ -22,4 +22,12 @@
 // import "/src/type-coercion-metaprogramming/date-objects";
 // import "/src/type-coercion-metaprogramming/primitive-coercion";
 // import "/src/type-coercion-metaprogramming/implement-primitive-coercion";
-import "/src/type-coercion-metaprogramming/symbols-metaprogramming";
+// import "/src/type-coercion-metaprogramming/symbols-metaprogramming";
+// import "/src/async-javascript-event-loop/synchronous-execution-review";
+// import "/src/async-javascript-event-loop/async-code-overview";
+// import "/src/async-javascript-event-loop/javascript-browser-api";
+// import "/src/async-javascript-event-loop/callback-queue";
+// import "/src/async-javascript-event-loop/event-loop";
+// import "/src/async-javascript-event-loop/promises-overview";
+// import "/src/async-javascript-event-loop/promises-fetch-api";
+import "/src/async-javascript-event-loop/deferred-promise-functionality";
